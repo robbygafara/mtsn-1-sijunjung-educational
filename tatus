@@ -1,0 +1,17 @@
+warning: in the working copy of '.github/workflows/ci.yml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.prettierrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/layout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eslint.config.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'next.config.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+ .github/workflows/ci.yml |  2 [32m+[m[31m-[m
+ .prettierrc              |  2 [32m+[m[31m-[m
+ README.md                | 44 [32m++++++++++++++++++++++[m[31m----------------------[m
+ app/layout.tsx           |  5 [32m+[m[31m----[m
+ eslint.config.mjs        |  9 [32m++[m[31m-------[m
+ next.config.ts           |  4 [32m+[m[31m---[m
+ package.json             | 42 [32m+++++++++++++++++++++[m[31m---------------------[m
+ tsconfig.json            |  8 [32m++++[m[31m----[m
+ 8 files changed, 53 insertions(+), 63 deletions(-)
